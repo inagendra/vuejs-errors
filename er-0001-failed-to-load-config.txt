@@ -1,0 +1,9 @@
+Error: failed to load config from vite.config.js error when starting dev server Error: Cannot find module 'node:url'
+
+Details: encountered this error while trying to run the project with the command "npm run dev"
+
+Resolution: updating node js version
+
+Helpful links: 
+
+1. https://stackoverflow.com/questions/73023183/failed-to-load-config-from-project-vuejs-frontend-vite-config-js-vuejs
